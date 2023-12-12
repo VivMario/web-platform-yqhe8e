@@ -1,0 +1,43 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: black;
+color: white;
+}
+
+img {
+height: 250px;
+width: 430px
+}
+/* I made the heading have a "class" that hwo I can change individual font and size */
+.header{
+font-family: Georgia, 'Times New Roman', Times, serif
+}
+/* This is for ID's that are beside the class */
+#titleheader {
+  color: blue 
+}
+
+li {
+  /* affects bullet point style, not words */
+  list-style: square;
+  /* search difference between margina nd padding*/
+  margin: 10px;
+  padding: 5px;
+  /* margin for left and right, search up */
+}
+
+button {
+  padding: 5px;
+  color: white;
+  background-color: black;
+  border-color: blue;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+nav {
+
+}
+
+nav a {
+
+}
